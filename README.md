@@ -5,6 +5,7 @@
 ABSTRACT
 
 MEDICAL IDEM
+
 The idea that we present you with is medical idem which means medical identity. A centralized system in which the medical records of entire population is safely stored,handled and added by verified hospitals and doctors making it easier to know the medical history of a particular person which in turn increases the efficiency of doctors and make it easier to diagnose  a disease. Medical idem demonstrates that hospital systems can organize and act quickly in any circumstance with the necessary details required. 
 
 The application consists of 2 views consisting of the  client side and administrator side. In the clientside people are able to access their own medical records once their identity is created and in this view the viewer can only view their records to get the information. Any changes to a person’s medical record can be done in the administrator side which is only handled by verified hospitals and the doctors are verifies under different hospitals. In order to make changes to a person’s medical record, he or she will have to visit an hospital and have a checkup to induce changes to the record.
