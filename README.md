@@ -40,9 +40,9 @@ Team id here
 
 Steps
 
-creating an account for the user to enter the name address and other basic details with the nearest hospital to add the records and then manually go to the hospital to get the user login details and completion of the records
+Creating an account for the user to enter the name address and other basic details with the nearest hospital to add the records and then manually go to the hospital to get the user login details and completion of the records
 
-logging in into the system by a perticular hospital. 
+Logging in into the system by a perticular hospital. 
 
 The admin gets the appointment booking and their profile is verified.
 
