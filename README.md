@@ -50,7 +50,7 @@ After the verification of the profile the Records are updated and additional det
 
 In the user view the user visits their profile with all the details about them and their records.
 
-2. https://drive.google.com/file/d/15vscj_UG0zmZNnn_7aNe7BuJBDFU-iEC/view?usp=share_link
+2. [Embedding the demo vedio] (https://drive.google.com/file/d/15vscj_UG0zmZNnn_7aNe7BuJBDFU-iEC/view?usp=share_link)
 ## Libraries used
 Node Js
 Flutter
