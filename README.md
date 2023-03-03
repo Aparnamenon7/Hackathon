@@ -34,7 +34,7 @@ The objective of medical idem is  :-
 ## Team Id
 Team id here
 ## Link to product walkthrough
-[link to video]
+[[link to video]](https://drive.google.com/file/d/15vscj_UG0zmZNnn_7aNe7BuJBDFU-iEC/view?usp=share_link)
 ## How it Works ?
 1. Working of the project 
 Steps
