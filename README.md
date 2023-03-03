@@ -36,8 +36,15 @@ Team id here
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+1. Working of the project 
+Steps
+logging in into the system by a perticular hospital 
+Booking an appoinment by a patient is done
+The admin gets the appointment booking and their profile is verified
+After the verification of the profile the Records are updated and additional details are added to the medical record
+In the user view the user visits their profile with all the details about them and their records
+
+2. [Embed video of project demo](https://drive.google.com/file/d/15vscj_UG0zmZNnn_7aNe7BuJBDFU-iEC/view?usp=share_link)
 ## Libraries used
 Node Js
 Flutter
@@ -46,4 +53,30 @@ Postgres SQL
 ## How to configure
 Instructions for setting up project
 ## How to Run
-Instructions for running
+The prototype of medical idem is a web application which can be accessed using the link of the application. It can also be made into an mobile application for the ease to access the records.
+
+It consists of 2 views user view and an admin view in which the user view is non editable but can only be read, any changes to details of a patient cannot be done by the patient except for personal details like address, phone number, email etc. 
+
+The admin view can only be accessed by verified hospitals and doctors in which a person's new record can be added, no changes can be done to the previously existing records. The entered medical record is only entered by the hospital if the user gives consent to add particular details to the record. For an administrator to access the records of a patient, a 2 step authentication is performed to make sure that the records are accessed with the consent of the patient.
+
+In order to generate an medical identity the user has to book an appointment with one of the listed verified hospitals and then manually go to the hospital to enter medical records with appropriate certificates of each chekups, vaccination, allergies which is then entered into the system after which the account is verified and an medical identity is generated which given as user id in the application
+
+After this the medical identity can then be linked to adhaar card with athe approval of government in order to make it more successfull
+
+Once medical id is generated the user can then have all their medical records entered by each authorised hospitals and store their medical records for throughput their life.
+
+In the admin view the prototype consists of elements  which consists of information about:-
+
+Dashboard: It consists of information like appointment count and other basic details.
+
+Search Patient: Here a particular patient can be searched/viewed by their medical identity and then their details are accessed using the appropriate security measures.
+
+Hospital records: Under this details such as Patient, Appointments, Doctors , Diagnosis is stored
+
+Doctor Details : Where a verifies Doctors details can be viewed including details like their name, doctor id etc of a particular hospital.
+
+Help : To clear any difficulties faced by the user.
+
+The most important factor of this application is its security which can never be compromised as it contains a detailed record of a person's health and their issues, therefore implementation of proper security plays a vital role. In this prototype we have ensured security with a 2 factor authentication such as otp and secret code which the admin has to enter in order to access a patients record. 
+
+
