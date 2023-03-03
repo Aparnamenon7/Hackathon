@@ -38,11 +38,17 @@ Team id here
 ## How it Works ?
 1. Working of the project 
 Steps
-logging in into the system by a perticular hospital 
-Booking an appoinment by a patient is done
-The admin gets the appointment booking and their profile is verified
-After the verification of the profile the Records are updated and additional details are added to the medical record
-In the user view the user visits their profile with all the details about them and their records
+
+
+logging in into the system by a perticular hospital. 
+
+Booking an appoinment by a patient is done.
+
+The admin gets the appointment booking and their profile is verified.
+
+After the verification of the profile the Records are updated and additional details are added to the medical record.
+
+In the user view the user visits their profile with all the details about them and their records.
 
 2. [Embed video of project demo](https://drive.google.com/file/d/15vscj_UG0zmZNnn_7aNe7BuJBDFU-iEC/view?usp=share_link)
 ## Libraries used
