@@ -37,6 +37,7 @@ Team id here
 [[link to video]](https://drive.google.com/file/d/15vscj_UG0zmZNnn_7aNe7BuJBDFU-iEC/view?usp=share_link)
 ## How it Works ?
 1. Working of the project 
+
 Steps
 
 creating an account for the user to enter the name address and other basic details with the nearest hospital to add the records and then manually go to the hospital to get the user login details and completion of the records
